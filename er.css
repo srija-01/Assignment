@@ -46,13 +46,14 @@ p {
 
 .outer-container {
   position: relative;
+  border: 3px solid black;
 }
 
 .inner-container {
   position: relative;
   margin: 20px;
   background-color: grey;
-  border: 1px solid black;
+  border: 3px solid black;
 }
 
 .section_title {
